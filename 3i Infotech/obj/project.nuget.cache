@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qSdRb57hXjE5Wrq/dIdLK+P6/NYfqUGWTlQL++iWkWQqaVpLCVIunm2EglBfXmjc1u+qMFe2L4A6NPOc0bV4nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\riyaz\\source\\repos\\3i Infotech solution\\3i Infotech\\3i Infotech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riyaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
